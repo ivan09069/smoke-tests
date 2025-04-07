@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dependabot/dummy-pkg-b": "^1.0.0",
+    "@dependabot/dummy-pkg-b": "^1.2.0",
     "left-pad": "^1.0.0"
   }
 }
