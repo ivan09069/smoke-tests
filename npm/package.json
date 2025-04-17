@@ -16,7 +16,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "fetch-factory": "^0.0.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "etag": "^1.0.0"
