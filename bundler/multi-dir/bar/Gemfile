@@ -3,4 +3,4 @@
 source 'https://rubygems.org'
 
 gem 'rack', '3.0.0'
-gem 'nokogiri', '1.11'
+gem 'nokogiri', '1.18.8'
