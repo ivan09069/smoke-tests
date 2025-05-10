@@ -6,14 +6,14 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     racc (1.7.2)
-    rack (3.0.0)
+    rack (3.0.16)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   nokogiri (= 1.11)
-  rack (= 3.0.0)
+  rack (= 3.0.16)
 
 BUNDLED WITH
    2.4.18
